@@ -29,38 +29,38 @@ This project uses a downloaded website template which was customized and deploye
 
 ## Deployment Screenshots
 
-### VS Code Project Files
-![VS Code](01-vscode-project-files.png)
+### VS Code Project
+![VS Code](01-vscode-code-editing.png)
 
-### EC2 Launch Page
-![EC2 Launch](02-aws-ec2-launch-page.png)
+### AWS EC2 Instance Launch
+![EC2 Launch](02-aws-ec2-instance-launch.png)
 
-### Instance Type Selection
-![Instance Type](03-ec2-instance-type.png)
+### Key Pair and Instance Type
+![Key Pair](03-ec2-keypair-and-instance-type.png)
 
 ### Security Group Configuration
-![Security Group](04-security-group-settings.png)
+![Security Group](04-security-group-configuration.png)
 
 ### EC2 Instance Connect
 ![EC2 Connect](05-ec2-instance-connect.png)
 
-### Ubuntu Server Terminal
-![Ubuntu Terminal](06-ubuntu-server-terminal.png)
+### Ubuntu Terminal Access
+![Ubuntu Terminal](06-ec2-ubuntu-terminal-access.png)
 
-### Apache Server Running
-![Apache Running](07-apache-server-running.png)
+### Apache2 Service Status
+![Apache Status](07-apache2-service-status.png)
 
 ### Apache Default Page
 ![Apache Default](08-apache-default-page.png)
 
-### PowerShell Troubleshooting
-![PowerShell](09-powershell-scp-troubleshooting.png)
+### File Transfer Debugging
+![File Transfer](09-file-transfer-debugging.png)
 
-### Final Website Output
-![Final Website](10-final-space-website.png)
+### Live Space Website Output
+![Website Output](10-live-space-website-output.png)
 
-### Website Sections
+### Space Website Sections
 ![Website Sections](11-space-website-sections.png)
 
-### Website Footer
-![Footer](12-website-footer-and-news-section.png)
+### Final Website Footer
+![Footer](12-final-website-footer.png)
